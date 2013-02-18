@@ -1,0 +1,4 @@
+gets here
+1st
+ending cGame::Init
+done
